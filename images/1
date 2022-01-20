@@ -2,7 +2,7 @@
     "title": "Sleep Jack Cat",
     "name": "Sleep Jack Cat",
     "type": "object",
-    "imageUrl": "https://ipfs.io/ipfs/QmXopbrhgqe7chFeL5WDpFNc3CSsY6VShXoU2SKMpi8vGb?filename=pandas.png",
+    "imageUrl": "https://qiangqiangliu.github.io/images/pandas.png",
     "description": "I love sleep",
     "attributes": [
         {
@@ -21,7 +21,7 @@
         },
         "preview_media_file": {
             "type": "string",
-            "description": "https://ipfs.io/ipfs/QmXopbrhgqe7chFeL5WDpFNc3CSsY6VShXoU2SKMpi8vGb?filename=pandas.png"
+            "description": "https://qiangqiangliu.github.io/images/pandas.png"
         },
         "preview_media_file_type": {
             "type": "string",
