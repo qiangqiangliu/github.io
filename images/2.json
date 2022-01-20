@@ -1,0 +1,47 @@
+{
+    "title": "Sleep Jack Cat",
+    "name": "Sleep Jack Cat",
+    "type": "object",
+    "imageUrl": "https://ipfs.io/ipfs/QmXopbrhgqe7chFeL5WDpFNc3CSsY6VShXoU2SKMpi8vGb?filename=pandas.png",
+    "description": "I love sleep",
+    "attributes": [
+        {
+            "trait_type": "Creator",
+            "value": "Frankş"
+        }
+    ],
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Sleep Jack Cat"
+        },
+        "description": {
+            "type": "string",
+            "description": "I love sleep."
+        },
+        "preview_media_file": {
+            "type": "string",
+            "description": "https://ipfs.io/ipfs/QmXopbrhgqe7chFeL5WDpFNc3CSsY6VShXoU2SKMpi8vGb?filename=pandas.png"
+        },
+        "preview_media_file_type": {
+            "type": "string",
+            "description": "jpg"
+        },
+        "created_at": {
+            "type": "datetime",
+            "description": "2020-03-25T17:52:51.269256+00:00"
+        },
+        "total_supply": {
+            "type": "int",
+            "description": 1
+        },
+        "digital_media_signature_type": {
+            "type": "string",
+            "description": "SHA-256"
+        },
+        "digital_media_signature": {
+            "type": "string",
+            "description": "664ae5c9eacf131e4f095d79bb1b3c9eda3d087d9855b3372d6d242667a3dce5"
+        }
+    }
+}
